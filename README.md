@@ -5,7 +5,7 @@ Passionate about building intelligent systems, developing AI models, and automat
 
 ## 🔹 Skills & Expertise
 - **Python Development** | **Machine Learning & Deep Learning** | **NLP & Computer Vision**
-- **Automation & AI Integration** | **Generative AI** | **Cloud & DevOps**
+- **Automation & AI Integration** | **Generative AI** 
 
 ## 🔹 Tech Stack
 - **Languages**: Python  

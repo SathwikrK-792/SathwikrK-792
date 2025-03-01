@@ -12,7 +12,7 @@ Passionate about building intelligent systems, developing AI models, and automat
 - **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
 - **NLP & CV**: Transformers, OpenCV, spaCy  
 - **Automation**: FastAPI, Selenium, AsyncIO  
-- **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP  
+- **Cloud & DevOps**: Docker, Kubernetes
 
 ## 🔹 Connect
 📧 **Email**: sathwik.komandla@gmail.com  

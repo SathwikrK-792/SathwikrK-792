@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🚀 Sathwik Reddy Komandla
+### **Python & Machine Learning Engineer**
 
-<!--
-**SathwikrK-792/SathwikrK-792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building intelligent systems, developing AI models, and automating workflows.
 
-Here are some ideas to get you started:
+## 🔹 Skills & Expertise
+- **Python Development** | **Machine Learning & Deep Learning** | **NLP & Computer Vision**
+- **Automation & AI Integration** | **Generative AI** | **Cloud & DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack
+- **Languages**: Python  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn  
+- **NLP & CV**: Transformers, OpenCV, spaCy  
+- **Automation**: FastAPI, Selenium, AsyncIO  
+- **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP  
+
+## 🔹 Connect
+📧 **Email**: sathwik.komandla@gmail.com  
+  
+
+📌 *Building AI-driven solutions & open to collaborations!*
